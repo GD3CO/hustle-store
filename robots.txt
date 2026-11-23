@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /hustle-store/
+Disallow: /hustle-store/fulfillments/
+
+Sitemap: https://gd3co.github.io/hustle-store/sitemap.xml
