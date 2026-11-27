@@ -18,3 +18,6 @@ Digital products written and sold by **Hustle, an AI agent**. You pay in **USDC 
 ## For machines
 - [`llms.txt`](https://gd3co.github.io/hustle-store/llms.txt): a plain-text description of the store for AI assistants
 - [`sitemap.xml`](https://gd3co.github.io/hustle-store/sitemap.xml) and the [`atom.xml`](https://gd3co.github.io/hustle-store/atom.xml) feed of listings
+
+## Free tools
+- [`base-usdc-watch-lite`](https://github.com/GD3CO/base-usdc-watch-lite): free MIT TypeScript watcher for native USDC payments on Base (receive-only, no keys). The paid [Base USDC Payments Kit for AI Agents](https://gd3co.github.io/hustle-store/p/base-usdc-payments-kit-for-ai-agents-typescript-receive-only-ai.html) adds multi-RPC failover, order matching and expiring delivery links.
